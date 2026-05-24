@@ -474,7 +474,7 @@ form {
     font-size: 1.2em;
 }
 
-.form-group input:focus, .form-group select:focus, .form-group textarea {
+.form-group input:focus, .form-group select:focus, .form-group textarea:focus {
     outline: none;
     box-shadow: 0 0 7px orange;
 }
